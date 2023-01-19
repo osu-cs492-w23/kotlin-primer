@@ -89,7 +89,7 @@ fun main() {
   // }
 
   // val donuts = listOf("glazed", "sugar", "buttermilk")
-  // val mutableDonuts = mutableListOf("glazed", "sugar", "buttermilk")
+  val mutableDonuts = mutableListOf("glazed", "sugar", "buttermilk")
   // mutableDonuts.add("cream filled")
   // println("donuts: $donuts")
   // println("mutableDonuts: $mutableDonuts")
